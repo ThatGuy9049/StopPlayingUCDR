@@ -1,3 +1,5 @@
+<img width="256" height="256" alt="thumb" src="https://github.com/user-attachments/assets/f9d57702-193b-48ca-9cc5-ddd2ec669308" />
+
 # StopPlayingUCDR 
 
 The ultimate tool for breaking the cycle and taking back your time
