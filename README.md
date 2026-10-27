@@ -12,6 +12,12 @@ Checks Game ID
 Gives motivational message telling you to stop trying to play!
 Fully Local!
 
+Allows for BS combos!
+Will stunlock you and do combos while the rest of the extension is actully made for a neutral playstyle, meaning you will also gain BURST meant to stop this, but also if you use it you will get punished, as the creator "Doc" intended!
+Circling style!
+The extension will also "Circle" around you whenever you attempt to engage, this is the highly professional artistic combat style of UCDR! How great!
+I want to rip all of your heads off.
+
 # Why?
 
 Let's admit it, some people have habits of coming back to things they swore they'd stop playing. 
